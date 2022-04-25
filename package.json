@@ -1,0 +1,9 @@
+{
+  "name": "cert-pages",
+  "version": "1.0.0",
+  "description": "Pages for ukjp-cert",
+  "main": "index.js",
+  "repository": "git@github.com:ukjp-cert/cert-pages.git",
+  "author": "Sam Aldis <samuel.aldis@owasp.org>",
+  "license": "MIT"
+}
